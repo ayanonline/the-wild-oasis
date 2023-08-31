@@ -71,7 +71,6 @@ function CabinRow({ cabin }) {
       description,
     });
   }
-
   return (
     <>
       <TableRow role="row">
